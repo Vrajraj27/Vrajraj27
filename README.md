@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+👋 Hi, I’m @Vrajraj27
+👀 I’m interested in NodeJs, NestJs,reactJs.
+🌱 I’m currently learning Blocakchain.
+💞️ I’m looking to collaborate on NodeJs, NestJs.
+📫 Reach me BY Email vrajrajshekhada27@gmail.com
 <!--
 **Vrajraj27/Vrajraj27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
