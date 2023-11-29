@@ -4,7 +4,7 @@
 
 👀 I’m interested in NodeJs, NestJs,reactJs.
 
-🌱 I’m currently learning Blocakchain.
+🌱 I’m currently learning Blockchain.
 
 💞️ I’m looking to collaborate on NodeJs, NestJs.
 
