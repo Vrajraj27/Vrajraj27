@@ -39,6 +39,8 @@ Hello world!
 
 📫 Reach me BY Email [vrajrajshekhada27@gmail.com](mailto:vrajrajshekhada27@gmail.com), 
 
+💼 [Portfolio](https://vrajraj-shekhada-portfolio.onrender.com/)
+
 I am passionate about backend development, trading systems, and learning new technologies.
 
 [![GitHub Followers](https://img.shields.io/github/followers/Vrajraj27?style=social)](https://github.com/Vrajraj27)
