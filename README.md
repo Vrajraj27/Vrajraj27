@@ -31,7 +31,15 @@ Here are some ideas to get you started:
 
 Hello world!
 
-I'm Vrajraj, and I am passionate about backend development, trading systems, and learning new technologies.
+👋 Hi, I’m [@Vrajraj27](https://github.com/Vrajraj27)
+
+👀 I’m interested in ![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?style=flat&logo=node.js&logoColor=white), ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white), ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white).
+
+🌱 I’m currently learning Blockchain.
+
+📫 Reach me BY Email [vrajrajshekhada27@gmail.com](mailto:vrajrajshekhada27@gmail.com), 
+
+I am passionate about backend development, trading systems, and learning new technologies.
 
 [![GitHub Followers](https://img.shields.io/github/followers/Vrajraj27?style=social)](https://github.com/Vrajraj27)
 [![GitHub Stars](https://img.shields.io/github/stars/Vrajraj27?style=social)](https://github.com/Vrajraj27)
@@ -102,6 +110,7 @@ I'm Vrajraj, and I am passionate about backend development, trading systems, and
 ---
 
 ## Currently Learning
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 
 ---
